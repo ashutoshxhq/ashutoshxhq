@@ -4,6 +4,6 @@ A full stack Software Developer with experience of developing web, mobile and de
 
 **Languages:** C++, Java, Dart, Go, JavaScript, HTML, CSS, Yaml, Json, PHP
 
-**Frameworks:** Flutter, React Js, Node Js, Electron, gRPC
+**Frameworks:** Flutter, React Js, Angular Js, Node Js, Electron, gRPC, Laravel
 
 **Technologies:** Git, Docker, Rest, Graphql, gRPC, Protocol Buffers 
