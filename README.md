@@ -7,3 +7,6 @@ A full stack Software Developer with experience of developing web, mobile and de
 **Frameworks:** Flutter, React Js, Angular Js, Node Js, Express Js, Electron, gRPC, Laravel
 
 **Technologies:** Git, Docker, Rest, Graphql, gRPC, Heroku, Google Cloud Platform, SQL, NoSQL
+
+**Databases:** PostgreSQL, MYSQL, MongoDB, Firebase Firestore
+
