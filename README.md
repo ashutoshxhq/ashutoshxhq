@@ -1,12 +1,20 @@
-### Ashutosh Dubey (Software Developer)
+## Ashutosh Kumar
+A Software Engineer with expertise in cloud native application development.
 
-A full stack Software Developer with experience of developing web, mobile and desktop application using technologies like Flutter, Electron Js, React Js, GraphQL, Node Js and Go lang. Also experienced with technologies like Git and Docker.
+Currently building a Serverless Function Marketplace at [Egnitely (egnitely.com)](https://egnitely.com)
 
-**Languages:** C++, Java, Dart, Go, JavaScript, HTML, CSS, PHP, Yaml, Json, Protocol Buffers 
+Also writing about ideas, stories and technologies I am  passionate about at [Ensight (ensight.dev)](https://ensight.dev)
 
-**Frameworks:** Flutter, React Js, Angular Js, Node Js, Express Js, Electron, gRPC, Laravel
+## My Skills
+Languages: C++, Java, Dart, Go, Rust, JavaScript, Typescript, PHP
 
-**Technologies:** Git, Docker, Rest, Graphql, gRPC, Heroku, Google Cloud Platform, SQL, NoSQL
+Frameworks: Flutter, React Js, Node Js, gRPC, Laravel
 
-**Databases:** PostgreSQL, MYSQL, MongoDB, Firebase Firestore
+Technologies: Git, Docker, Rest, GraphQL, gRPC, AWS
 
+Databases: PostgreSQL, MYSQL, MongoDB, Firestore
+
+## Social Links
+Twitter: https://twitter.com/ashutoshhq
+
+Github: https://github.com/ashutoshhq
