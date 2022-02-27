@@ -13,8 +13,8 @@ Technologies: Git, Docker, Rest, GraphQL, gRPC, AWS
 Databases: PostgreSQL, MYSQL, MongoDB, Firestore
 
 ## Social Links
-Twitter: https://twitter.com/ashutoshhq
+Twitter: https://twitter.com/idkashutosh
 
-Github: https://github.com/ashutoshhq
+Github: https://github.com/idkashutosh
 
 Blog: https://ensight.dev
