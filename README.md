@@ -1,7 +1,5 @@
 ## Ashutosh Kumar
-A Software Engineer with expertise in cloud native application development.
-
-Writing about ideas and stories from technology at [Ensight (ensight.dev)](https://ensight.dev)
+A Software Engineer with expertise in cloud native application development. Currently building CadenceIQ (AI Powered assistant for GTM Teams) and Egnitely (Automation engine for knowledge workers). 
 
 ## My Skills
 Languages: C++, Java, Dart, Go, Rust, JavaScript, Typescript, PHP
@@ -17,4 +15,8 @@ Twitter: https://twitter.com/idkashutosh
 
 Github: https://github.com/idkashutosh
 
-Blog: https://ensight.dev
+Website: https://ashutoshhq.com
+
+Egnitely: https://egnitely.com
+
+CadenceIQ: https://cadenceiq.ai
