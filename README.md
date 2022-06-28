@@ -2,9 +2,9 @@
 A Software Engineer with expertise in cloud native application development. Currently building CadenceIQ (AI Powered assistant for GTM Teams) and Egnitely (Automation engine for knowledge workers). 
 
 ## My Skills
-Languages: C++, Java, Dart, Go, Rust, JavaScript, Typescript, PHP
+Languages: C++, Java, Dart, Go, Rust, JavaScript, Typescript, PHP, Python
 
-Frameworks: Flutter, React Js, Node Js, gRPC, Laravel
+Frameworks: Flutter, React Js, Node Js, Nest Js, Laravel
 
 Technologies: Git, Docker, Rest, GraphQL, gRPC, AWS
 
