@@ -11,7 +11,7 @@ Technologies: Git, Docker, Rest, GraphQL, gRPC, AWS, Microservices
 Databases: PostgreSQL, MYSQL, MongoDB, Firestore
 
 ## Important Links
-Twitter: https://twitter.com/idkashutosh
+Twitter: https://twitter.com/ashutoshhq
 
 Github: https://github.com/idkashutosh
 
