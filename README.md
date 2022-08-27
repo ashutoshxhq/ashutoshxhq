@@ -1,5 +1,5 @@
 ## Ashutosh Kumar
-Expert in building distributed cloud native applications. Currently building CadenceIQ (AI Powered assistant for GTM Teams) and Egnitely (Automation engine for knowledge workers). 
+Expert in building distributed cloud native applications. Currently building CadenceIQ (AI Powered assistant for GTM Teams) and Egnitely (Function as a Service platform with a marketplace for Egnineering Teams). 
 
 ## My Skills
 Languages: C++, Java, Dart, Go, Rust, JavaScript, Typescript, PHP, Python
