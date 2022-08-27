@@ -8,7 +8,7 @@ Frameworks: Flutter, React Js, Node Js, Nest Js, Laravel
 
 Technologies: Git, Docker, Rest, GraphQL, gRPC, AWS, Microservices, Serverless, AWS Lambda
 
-Databases: PostgreSQL, MYSQL, MongoDB, Firestore
+Databases: PostgreSQL, MYSQL, MongoDB, DynamoDB, Firestore
 
 ## Important Links
 Twitter: https://twitter.com/ashutoshhq
