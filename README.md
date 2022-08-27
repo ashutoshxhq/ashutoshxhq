@@ -2,7 +2,7 @@
 - Expert in building distributed cloud native applications. 
 - Currently building: 
     - CadenceIQ (AI Powered assistant for GTM Teams) 
-    - Egnitely (Function as a Service platform with a marketplace of functions for Egnineering Teams)
+    - Egnitely (Function as a Service platform with a marketplace of functions for building backend services & application)
 
 ## My Skills
 Languages: C++, Java, Dart, Go, Rust, JavaScript, Typescript, PHP, Python
