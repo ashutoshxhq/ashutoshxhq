@@ -20,6 +20,6 @@ Github: https://github.com/idkashutosh
 
 Website: https://ashutoshhq.com
 
-Egnitely: https://egnitely.com
+Faasly: https://faasly.dev
 
 CadenceIQ: https://cadenceiq.ai
