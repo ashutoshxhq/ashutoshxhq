@@ -14,12 +14,12 @@ Technologies: Git, Docker, Rest, GraphQL, gRPC, AWS, Microservices, Serverless, 
 Databases: PostgreSQL, MYSQL, MongoDB, DynamoDB, Firestore
 
 ## Important Links
-Twitter: https://twitter.com/ashutoshhq
+Twitter: https://twitter.com/ashutoshxhq
 
-Github: https://github.com/idkashutosh
+Github: https://github.com/ashutoshxhq
 
 Website: https://ashutoshhq.com
 
-Faasly: https://faasly.dev
+Faasbase: https://faasbase.com
 
 CadenceIQ: https://cadenceiq.ai
