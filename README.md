@@ -1,8 +1,7 @@
 ## Ashutosh Dubey
 - Expert in building distributed cloud native applications. 
 - Currently building: 
-    - CadenceIQ (AI Powered assistant for GTM Teams) 
-    - Faasbase (Function as a Service platform with a marketplace of functions for building backend services & applications)
+    - CadenceIQ (AI powered co-pilot for sales teams) 
 
 ## My Skills
 Languages: C++, Java, Dart, Go, Rust, JavaScript, Typescript, PHP, Python
@@ -19,7 +18,5 @@ Twitter: https://twitter.com/ashutoshxhq
 Github: https://github.com/ashutoshxhq
 
 Website: https://ashutoshhq.com
-
-Faasbase: https://faasbase.com
 
 CadenceIQ: https://cadenceiq.ai
