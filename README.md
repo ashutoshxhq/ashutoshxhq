@@ -1,7 +1,7 @@
 ## Ashutosh Dubey
-- Expert in building distributed cloud native applications. 
+- Expert in building distributed cloud native applications.
 - Currently building: 
-    - CadenceIQ (AI powered co-pilot for sales teams) 
+    - Namora AI (Automating knowledge work using AI) 
 
 ## My Skills
 Languages: C++, Java, Dart, Go, Rust, JavaScript, Typescript, PHP, Python
@@ -17,6 +17,4 @@ Twitter: https://twitter.com/ashutoshxhq
 
 Github: https://github.com/ashutoshxhq
 
-Website: https://ashutoshhq.com
-
-CadenceIQ: https://cadenceiq.ai
+Namora AI: https://namora.ai
